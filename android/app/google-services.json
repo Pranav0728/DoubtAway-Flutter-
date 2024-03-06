@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "682405789305",
+    "project_id": "doubtaway-79461",
+    "storage_bucket": "doubtaway-79461.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682405789305:android:428efe492a9125549a1ea8",
+        "android_client_info": {
+          "package_name": "com.example.doubtaway"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI0l2penWvKk3Pi2H28oua1Af0LnuGcMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
